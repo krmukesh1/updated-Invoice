@@ -1,0 +1,45 @@
+body {
+  background-color: #424949;
+}
+.invoice-box {
+  width: 800px;
+  margin: auto;
+  margin-top: 20px;
+  margin-right: 250px;
+  padding: 80px 30px 30px 30px;
+  /* border: 1px solid #eee; */
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  font-size: 15px;
+  line-height: 22px;
+  font-family: Roboto, "Segoe UI", Tahoma, sans-serif;
+  /* font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  /* color: #555; */
+}
+.tax {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 0.5;
+  color: black;
+  font-size: 45px;
+}
+.Invoice {
+  padding: 50px 0px 20px 15px;
+}
+.Invoice .table {
+  line-height: 10px;
+}
+.Invoice .table .td1 {
+  color: black;
+  font-weight: bold;
+}
+.notes {
+  line-height: 40px;
+  font-size: 15px;
+}
+.terms {
+  padding-top: 40px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+}
